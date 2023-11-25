@@ -1,0 +1,10 @@
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\bin\Debug\Tris.exe.config
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\bin\Debug\Tris.exe
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\bin\Debug\Tris.pdb
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\obj\Debug\Tris.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\obj\Debug\Tris.Form1.resources
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\obj\Debug\Tris.Properties.Resources.resources
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\obj\Debug\Tris.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\obj\Debug\Tris.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\obj\Debug\Tris.exe
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Tris\Tris\obj\Debug\Tris.pdb
