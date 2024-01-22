@@ -1,2 +1,2 @@
 # TrisGame
-Gioco del Tris WinForm
+Tris game
